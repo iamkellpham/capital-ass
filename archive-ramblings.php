@@ -1,6 +1,9 @@
 <?php
 /*
 Template Name: Ramblings
+ 
+ LAKERS ARE WORLD CHAMPS
+ BOUTTA GO BACK TO BACK EZZZZZ
 */
 ?>
 
