@@ -82,5 +82,6 @@
 	wp_footer(); // we need this for plugins
 	do_action( 'genesis_after' );
 ?>
+Fuck 2020!!!
 </body>
 </html>
