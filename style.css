@@ -1,0 +1,33 @@
+/*
+Theme Name:     dauidusChild
+Theme URI:      
+Description:    child theme for use with GENESIS framework
+Author:         Dave Winter
+Author URI:		dauid.us
+Template:       genesis
+Version:        2.1
+*/
+
+.hover {
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;        
+}
+
+a.imagesprite {
+	display: block;
+	width: 125px;
+	height: 60px;
+	background: url(http://www.dauid.us/wp-content/uploads/2010/06/cssrollover11.jpg) no-repeat 0 0;
+	overflow: hidden;
+	text-indent: -15000px;
+	font-size: 0px;
+	line-height: 0px;
+}
+ 
+a.imagesprite:hover {
+	background-position: 0 -60px;
+}
+ 
+a.imagesprite:active {
+	background-position: 0 -120px;
+}
